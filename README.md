@@ -1,4 +1,5 @@
 # townhouse
+# Furnitures are NOT included!!!
 ### balcony
 ![image_1](balcony.jpg)
 
