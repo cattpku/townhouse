@@ -1,5 +1,5 @@
 # townhouse
-balcony
+##balcony
 ![image_1](balcony.jpg)
 
 living_room
@@ -16,7 +16,7 @@ kitchen
 ![image_6](kitchen.jpg)
 
 bathroom
-![image_7](bathroom.jpg
+![image_7](bathroom.jpg)
 
 floor_plan
 ![image_8](floor_plan.jpg)
