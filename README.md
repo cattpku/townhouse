@@ -1,5 +1,6 @@
 # townhouse
-##balcony
+## balcony
+
 ![image_1](balcony.jpg)
 
 living_room
